@@ -1,11 +1,13 @@
 # Real-time detection and object tracking using YoloV8
 
-# For cloning this repository ```git clone ```
+# For cloning  
+```git clone ```
 
-# Create an python environment ```python -m venv venv```
+# Create an python environment
+```python -m venv venv```
  
-
-# Activate the environment ```venv/Scripts/activate```
+# Activate the environment
+```venv/Scripts/activate```
 
 # Install some dependencies
 
@@ -18,7 +20,6 @@
 ```pip install pathlib```
 
 ```pip install pillow```
-
 
 # Run the app
 
